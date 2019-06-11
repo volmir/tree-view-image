@@ -7,7 +7,7 @@ Tree view image application based on YII2
 ```sh
 $ cd /path/to/htdocs
 $ git clone https://github.com/volmir/tree-view-image.git
-$ cd simple-rest-api
+$ cd tree-view-image
 ```
 
 ### Usage
